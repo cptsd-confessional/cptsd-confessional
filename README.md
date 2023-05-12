@@ -1,6 +1,10 @@
 ### CPTSD Confessional
 A blog containing random thoughts from my damaged brain 
 
+---
+permalink: /index.html
+---
+
 #### License: None
 No part of this project may be modified, copied, nor redistributed without my explicit permission. 
 
