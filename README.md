@@ -1,4 +1,8 @@
-### Hi there 👋
+### CPTSD Confessional
+A blog containing random thoughts from my damaged brain 
+
+#### License: None
+No part of this project may be modified, copied, nor redistributed without my explicit permission. 
 
 <!--
 **cptsd-confessional/cptsd-confessional** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
